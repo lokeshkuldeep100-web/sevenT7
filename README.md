@@ -12,3 +12,4 @@ Using KiCad for the open-source PCB design phase:
 2. Firmware Implementation
 Developing the pet’s behavior and sensor integration.
    
+<img width="1366" height="768" alt="WhatsApp Image 2026-10-18 at 3 54 33 PM" src="https://github.com/user-attachments/assets/b5167924-1333-4bfc-a4d6-d61cb85b3b6c" />
